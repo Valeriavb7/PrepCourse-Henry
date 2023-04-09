@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Repositorio del m2 del prepcourse de Henry
+Proyecto de cómo crear un repositorio y clonarlo desde gitHub a mi notebook.
